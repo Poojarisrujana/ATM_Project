@@ -26,7 +26,7 @@ if choice==1:
                         print("Transaction is processing")
                         time.sleep(4)
                         print("Please collect your Amount")
-                        time.sleep(4)
+                        time.sleep(2)
                         print("Do you want to check your Balance")
                         print("1.Yes\n2.No")
                         choice1=int(input())
